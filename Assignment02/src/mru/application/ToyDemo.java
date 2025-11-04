@@ -11,6 +11,7 @@ public class ToyDemo {
 		
 		//Deez nuts
 		
+		int hello = 1;
 		//Reaad txt file, read object
 		Toy t1 = new Toy1("Type 1"); /// Polymorhpism
 		toys.add(t1);
