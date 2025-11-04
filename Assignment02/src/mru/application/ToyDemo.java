@@ -9,6 +9,8 @@ public class ToyDemo {
 		//Create a list to hold toy objects
 		ArrayList<Toy> toys = new ArrayList<>();
 		
+		//Deez nuts
+		
 		//Reaad txt file, read object
 		Toy t1 = new Toy1("Type 1"); /// Polymorhpism
 		toys.add(t1);
